@@ -7,4 +7,4 @@
 <code>📦 Tech stack: js, Vue</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@grantorino](https://telegram.me/grantorino)</code>
-<code>📫 [your-email](mailto:mostovenko.andriy@gmail.com)</code>
+<code>📫 [mostovenko.andriy@gmail.com](mailto:mostovenko.andriy@gmail.com)</code>
